@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+    background-color: rgb(153, 245, 245);  /* Corrected property and value */
+    text-align: center;                      /* Corrected property name and value */
+    font-family: Arial, sans-serif;
+}
+
+h1 {                                         /* Changed .h1 to h1, since it's an HTML tag, not a class */
+    font-size: 24px;                        /* Corrected property name and value */
+    color: blue;
+}
+
+.message {                                     /* Corrected property name and value */
+    font-weight: bold;
+    color: red;
+}
